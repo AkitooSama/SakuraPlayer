@@ -13,7 +13,7 @@ Sakura Player is an in-progress media player project with a focus on simplicity 
 
 ## UI-Framework
 
--CustomTkinter
+- CustomTkinter
 
 1. Clone the repository:
    ```bash
