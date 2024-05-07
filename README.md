@@ -10,7 +10,7 @@ Sakura Player is an in-progress media player project with a focus on simplicity 
 - Playlists: Organize and manage your media files into playlists.
 - Playback System: Playback system and Color changer
 - Lyrics: Featches lyrics for the song.
-- History: Saves your historys and track your songs playback count.
+- History: Saves your historys and tracks your songs playback count.
 
 ## UI-Framework
 
