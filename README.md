@@ -1,4 +1,4 @@
-![Local Image] (banner.png)
+![example] (banner.png)
 # Sakura Player
 
 Sakura Player is an in-progress media player project with a focus on simplicity and customizability. This player utilizes filters, playlists, and a playback system developed in Python 3.12.1.
